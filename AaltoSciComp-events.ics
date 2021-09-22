@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+SUMMARY:Aalto Scientific Computing events
+BEGIN:VEVENT
+SUMMARY:Test Event
+DTSTART;TZID=Europe/Helsinki;VALUE=DATE-TIME:20210101T001000
+DTEND;TZID=Europe/Helsinki;VALUE=DATE-TIME:20210101T001100
+DESCRIPTION:Line1\nLine2\nhttps://scicomp.aalto.fi\n
+LOCATION:https://scicomp.aalto.fi/zoom/
+END:VEVENT
+END:VCALENDAR
