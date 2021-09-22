@@ -22,6 +22,7 @@ jobs:
           mkdir www/
           cp *.ics www/
           echo '<a href="AaltoSciComp-events.ics">link</a>' > www/index.html
+          date >> www/index.html
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

@@ -4,6 +4,7 @@ options:
 
 events:
   - name: Test Event
+    id: test1
     description: |
       Line1
       Line2
