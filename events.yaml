@@ -10,7 +10,18 @@ events:
       Line2
       https://scicomp.aalto.fi
     location: https://scicomp.aalto.fi/zoom/
-    start_date: 2021-01-01
+    start_date: 2021-09-23
+    start_time: 10:00:00
+    end_time: 11:00:00
+
+  - name: Test Event
+    id: test2
+    description: |
+      Line1
+      Line2
+      https://scicomp.aalto.fi
+    location: https://scicomp.aalto.fi/zoom/
+    start_date: 2021-09-26
     start_time: 10:00:00
     end_time: 11:00:00
 
